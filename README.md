@@ -1,4 +1,4 @@
-## AI for Air Quality: Deciphering Benzene Patterns in Urban Environments through Machine Learning
+### AI for Air Quality: Deciphering Benzene Patterns in Urban Environments through Machine Learning
 
 I applied machine learning techniques to investigate... Below is my report.
 
