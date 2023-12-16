@@ -1,4 +1,5 @@
 # AI for Air Quality: Deciphering Benzene Patterns in Urban Environments through Machine Learning
+### Lilian Vay, Physics Undergraduate At University of California, Los Angeles
 
 I applied machine learning techniques to investigate... Below is my report.
 
