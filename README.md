@@ -1,17 +1,18 @@
-# AI for Air Quality: Deciphering Benzene Patterns in Urban Environments through Machine Learning
-### Lilian Vay, Physics Undergraduate At University of California, Los Angeles
+# A.I. for Air Quality: Deciphering Benzene Patterns in Urban Environments through Machine Learning
 
-I applied machine learning techniques to investigate... Below is my report.
+This project presents an analysis of air quality data to address pressing environmental and public health concerns related to air pollution with a focus on Benzene.  Machine learning techniques, such as linear regressions, support vector machines (SVM), and decision trees, were applied to predict and classify Benzene levels as "Good," "Moderate," or "Unhealthy" based on time-stamped concentrations.  The results revealed distinct temporal patterns in pollution levels, allowing the potential to identify peak pollution times and optimal periods for outdoor activities.  
 
 ***
 
 ## Introduction 
 
-Here is a summary description of the topic. Here is the problem. This is why the problem is important.
+In the era of rapid urbanization and industrial growth, air quality has emerged as a critical environmental and public health concern. Among the various pollutants that deteriorate air quality, Benzene, a volatile organic compound, stands out due to its significant health implications. Classified as a carcinogen, Benzene is predominantly released from industrial emissions and vehicular exhaust, making its presence in urban atmospheres a subject of grave concern. Elevated levels of Benzene are linked to various health issues, including an increased risk of leukemia and other blood disorders, making the monitoring and analysis of its concentration in urban air extremely important.
 
-There is some dataset that we can use to help solve this problem. This allows a machine learning approach. This is how I will solve the problem using supervised/unsupervised/reinforcement/etc. machine learning.
+To solve this problem, supervised machine learning was employed to investigate the Benzene levels in an air quality dataset centered around a densely populated Italian city.  Linear Regression was used to predict continuous Benzene concentrations,  Support Vector Machines (SVM) were utilized to categorize concentrations into risk levels, and Decision Trees were created to identify peak pollution times and optimal periods for outdoor activities.  These tactics create excellent tactics to monitor Benzene levels thus allowing the minimization of exposure to high concentrations of the dangerous carcinogen and reducing its detrimental long-term health consequences.  
 
-We did this to solve the problem. We concluded that...
+The Linear Regression model successfully predicted Benzene levels, capturing a strong linear relationship between time predictors and the target variable.  It demonstrated high predictive power with low error, making it incredibly reliable.  The SVM was able to accurately predict and categorize pollution levels into "Good," "Moderate," and "Unhealthy" risk groups.  Overall, the model showed high precision and recall, especially for the "Unhealthy" category, which is crucial from a public health perspective.  The Decision Tree provided valuable temporal insight into Benzene level fluctuations.  It reveals certain hours of the day, days of the week, and months were more strongly associated with higher levels of Benzene, which hints at patterns of human activity that are influencing pollution levels such as traffic.  
+
+***
 
 ## Data
 
